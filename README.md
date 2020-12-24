@@ -32,6 +32,13 @@
     └── eval_sunglasses.py
 ```
 # II. Dependencies
+- Python
+- Keras
+- Numpy
+- tensorflow_model_optimization
+- H5py
+- matplotlib
+- sys
 # III. Validation Data
 1. Download the validation and test datasets from here and store them under data/ directory.
 2. The dataset contains images from YouTube Aligned Face Dataset. We retrieve 1283 individuals each containing 9 images in the validation dataset.
